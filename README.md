@@ -1,8 +1,9 @@
-# PythonPHP-CGILoaclServerPython
+# PythonPHP-CGI
+# LoaclServerPython
 
 ## pythonCGI ## 
 ## php CGI ## 
-## only GET ## 
+## only method GET ## 
 
 ``` 
   install php and python
